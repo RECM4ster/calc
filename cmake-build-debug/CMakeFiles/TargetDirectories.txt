@@ -1,0 +1,3 @@
+C:/Users/M4ster/CLionProjects/Calc/cmake-build-debug/CMakeFiles/Calc.dir
+C:/Users/M4ster/CLionProjects/Calc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/M4ster/CLionProjects/Calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
