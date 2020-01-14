@@ -16,5 +16,5 @@ int logarytmNaturalny() {
     cin >> liczba;
     logarytm = log(liczba);
     cout << "Logarytm naturalny z " << liczba << " to " << logarytm;
-return 0;
+    return 0;
 }

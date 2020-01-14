@@ -1,8 +1,5 @@
 
-
 #include <iostream>
-#include <cmath>
-#include <cstdlib>
 #include "onp.h"
 #include "liczbaOdwrotna.h"
 #include "liczbaPrzeciwna.h"
@@ -35,7 +32,7 @@ int main() {
             break;
 
         case 2:
-           liczbaOdwrotna();
+            liczbaOdwrotna();
             break;
 
         case 3:

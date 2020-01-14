@@ -12,5 +12,5 @@ int liczbaOdwrotna() {
     cin >> liczba;
     cout << endl << "Liczba odworcona to 1/" << liczba << endl;
 
-return 0;
+    return 0;
 }

@@ -4,7 +4,7 @@
 #include <iostream>
 #include "silnia.h"
 
-using  namespace std;
+using namespace std;
 
 int silnia() {
     int liczba;
