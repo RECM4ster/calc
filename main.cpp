@@ -143,6 +143,31 @@ void silnia() {
     cout << "Silnia z " << liczba << " wynosi " << wynik << endl;
 }
 
+void funkcjeTrygonometryczne() {
+    int poddzialanie = 0;
+    cout << "Co chcesz wyliczyć" << endl;
+    cout << "1. Sinus Kata" << endl;
+    cout << "2. Cosinus Kata" << endl;
+    cout << "3. Tangens Kata" << endl;
+    cin >> poddzialanie;
+    if (poddzialanie == 1)
+        sinusKata();
+
+    else if (poddzialanie == 2)
+        cosinusKata();
+
+    else if (poddzialanie == 3)
+        tangensKata();
+
+    else {
+        cout << "Error" << endl;
+        exit(1);
+
+    }
+
+
+}
+
 int main() {
     int dzialanie;
 
@@ -153,10 +178,8 @@ int main() {
     cout << "4. Logarytm dziesietny" << endl;
     cout << "5. Logarytm Naturalny" << endl;
     cout << "6. Logarytm o dowolnej podstawie" << endl;
-    cout << "7. Sinus Kata" << endl;
-    cout << "8. Cosinus Kata" << endl;
-    cout << "9. Tangens Kata" << endl;
-    cout << "10. Silnia" << endl;
+    cout << "7. Funkcje trygonometryczne" << endl;
+    cout << "8. Silnia" << endl;
     cin >> dzialanie;
 
 
@@ -186,18 +209,10 @@ int main() {
             break;
 
         case 7:
-            sinusKata();
+            funkcjeTrygonometryczne();
             break;
 
         case 8:
-            cosinusKata();
-            break;
-
-        case 9:
-            tangensKata();
-            break;
-
-        case 10:
             silnia();
             break;
     }
