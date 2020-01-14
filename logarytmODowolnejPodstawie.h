@@ -1,0 +1,11 @@
+//
+// Created by M4ster on 14.01.2020.
+//
+
+#ifndef CALC_LOGARYTMODOWOLNEJPODSTAWIE_H
+#define CALC_LOGARYTMODOWOLNEJPODSTAWIE_H
+
+
+int logarytmODowolnejPodstawie();
+
+#endif //CALC_LOGARYTMODOWOLNEJPODSTAWIE_H

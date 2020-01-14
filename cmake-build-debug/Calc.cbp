@@ -80,7 +80,55 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/funkcjeTrygonometryczne.cpp">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/funkcjeTrygonometryczne.h">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/liczbaOdwrotna.cpp">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/liczbaOdwrotna.h">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/liczbaPrzeciwna.cpp">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/liczbaPrzeciwna.h">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/logarytmDziesietny.cpp">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/logarytmDziesietny.h">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/logarytmNaturalny.cpp">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/logarytmNaturalny.h">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/logarytmODowolnejPodstawie.cpp">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/logarytmODowolnejPodstawie.h">
+			<Option target="Calc"/>
+		</Unit>
 		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/main.cpp">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/onp.cpp">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/onp.h">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/silnia.cpp">
+			<Option target="Calc"/>
+		</Unit>
+		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/silnia.h">
 			<Option target="Calc"/>
 		</Unit>
 		<Unit filename="C:/Users/M4ster/CLionProjects/Calc/CMakeLists.txt">
