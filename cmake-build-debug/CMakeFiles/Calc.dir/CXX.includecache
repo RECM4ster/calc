@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/M4ster/CLionProjects/Calc/main.cpp
+C:/Users/M4ster/CLionProjects/Calc/silnia.cpp
 iostream
 -
-cmath
--
-cstdlib
--
+silnia.h
+C:/Users/M4ster/CLionProjects/Calc/silnia.h
+
+C:/Users/M4ster/CLionProjects/Calc/silnia.h
 

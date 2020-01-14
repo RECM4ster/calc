@@ -69,19 +69,139 @@ CMakeFiles/Calc.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Calc.dir/main.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\M4ster\CLionProjects\Calc\main.cpp -o CMakeFiles\Calc.dir\main.cpp.s
 
+CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.obj: CMakeFiles/Calc.dir/flags.make
+CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.obj: ../liczbaOdwrotna.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\M4ster\CLionProjects\Calc\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Calc.dir\liczbaOdwrotna.cpp.obj -c C:\Users\M4ster\CLionProjects\Calc\liczbaOdwrotna.cpp
+
+CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\M4ster\CLionProjects\Calc\liczbaOdwrotna.cpp > CMakeFiles\Calc.dir\liczbaOdwrotna.cpp.i
+
+CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\M4ster\CLionProjects\Calc\liczbaOdwrotna.cpp -o CMakeFiles\Calc.dir\liczbaOdwrotna.cpp.s
+
+CMakeFiles/Calc.dir/onp.cpp.obj: CMakeFiles/Calc.dir/flags.make
+CMakeFiles/Calc.dir/onp.cpp.obj: ../onp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\M4ster\CLionProjects\Calc\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Calc.dir/onp.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Calc.dir\onp.cpp.obj -c C:\Users\M4ster\CLionProjects\Calc\onp.cpp
+
+CMakeFiles/Calc.dir/onp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Calc.dir/onp.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\M4ster\CLionProjects\Calc\onp.cpp > CMakeFiles\Calc.dir\onp.cpp.i
+
+CMakeFiles/Calc.dir/onp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Calc.dir/onp.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\M4ster\CLionProjects\Calc\onp.cpp -o CMakeFiles\Calc.dir\onp.cpp.s
+
+CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.obj: CMakeFiles/Calc.dir/flags.make
+CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.obj: ../liczbaPrzeciwna.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\M4ster\CLionProjects\Calc\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Calc.dir\liczbaPrzeciwna.cpp.obj -c C:\Users\M4ster\CLionProjects\Calc\liczbaPrzeciwna.cpp
+
+CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\M4ster\CLionProjects\Calc\liczbaPrzeciwna.cpp > CMakeFiles\Calc.dir\liczbaPrzeciwna.cpp.i
+
+CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\M4ster\CLionProjects\Calc\liczbaPrzeciwna.cpp -o CMakeFiles\Calc.dir\liczbaPrzeciwna.cpp.s
+
+CMakeFiles/Calc.dir/logarytmDziesietny.cpp.obj: CMakeFiles/Calc.dir/flags.make
+CMakeFiles/Calc.dir/logarytmDziesietny.cpp.obj: ../logarytmDziesietny.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\M4ster\CLionProjects\Calc\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Calc.dir/logarytmDziesietny.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Calc.dir\logarytmDziesietny.cpp.obj -c C:\Users\M4ster\CLionProjects\Calc\logarytmDziesietny.cpp
+
+CMakeFiles/Calc.dir/logarytmDziesietny.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Calc.dir/logarytmDziesietny.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\M4ster\CLionProjects\Calc\logarytmDziesietny.cpp > CMakeFiles\Calc.dir\logarytmDziesietny.cpp.i
+
+CMakeFiles/Calc.dir/logarytmDziesietny.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Calc.dir/logarytmDziesietny.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\M4ster\CLionProjects\Calc\logarytmDziesietny.cpp -o CMakeFiles\Calc.dir\logarytmDziesietny.cpp.s
+
+CMakeFiles/Calc.dir/logarytmNaturalny.cpp.obj: CMakeFiles/Calc.dir/flags.make
+CMakeFiles/Calc.dir/logarytmNaturalny.cpp.obj: ../logarytmNaturalny.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\M4ster\CLionProjects\Calc\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Calc.dir/logarytmNaturalny.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Calc.dir\logarytmNaturalny.cpp.obj -c C:\Users\M4ster\CLionProjects\Calc\logarytmNaturalny.cpp
+
+CMakeFiles/Calc.dir/logarytmNaturalny.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Calc.dir/logarytmNaturalny.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\M4ster\CLionProjects\Calc\logarytmNaturalny.cpp > CMakeFiles\Calc.dir\logarytmNaturalny.cpp.i
+
+CMakeFiles/Calc.dir/logarytmNaturalny.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Calc.dir/logarytmNaturalny.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\M4ster\CLionProjects\Calc\logarytmNaturalny.cpp -o CMakeFiles\Calc.dir\logarytmNaturalny.cpp.s
+
+CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.obj: CMakeFiles/Calc.dir/flags.make
+CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.obj: ../logarytmODowolnejPodstawie.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\M4ster\CLionProjects\Calc\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Calc.dir\logarytmODowolnejPodstawie.cpp.obj -c C:\Users\M4ster\CLionProjects\Calc\logarytmODowolnejPodstawie.cpp
+
+CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\M4ster\CLionProjects\Calc\logarytmODowolnejPodstawie.cpp > CMakeFiles\Calc.dir\logarytmODowolnejPodstawie.cpp.i
+
+CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\M4ster\CLionProjects\Calc\logarytmODowolnejPodstawie.cpp -o CMakeFiles\Calc.dir\logarytmODowolnejPodstawie.cpp.s
+
+CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.obj: CMakeFiles/Calc.dir/flags.make
+CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.obj: ../funkcjeTrygonometryczne.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\M4ster\CLionProjects\Calc\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Calc.dir\funkcjeTrygonometryczne.cpp.obj -c C:\Users\M4ster\CLionProjects\Calc\funkcjeTrygonometryczne.cpp
+
+CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\M4ster\CLionProjects\Calc\funkcjeTrygonometryczne.cpp > CMakeFiles\Calc.dir\funkcjeTrygonometryczne.cpp.i
+
+CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\M4ster\CLionProjects\Calc\funkcjeTrygonometryczne.cpp -o CMakeFiles\Calc.dir\funkcjeTrygonometryczne.cpp.s
+
+CMakeFiles/Calc.dir/silnia.cpp.obj: CMakeFiles/Calc.dir/flags.make
+CMakeFiles/Calc.dir/silnia.cpp.obj: ../silnia.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\M4ster\CLionProjects\Calc\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Calc.dir/silnia.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Calc.dir\silnia.cpp.obj -c C:\Users\M4ster\CLionProjects\Calc\silnia.cpp
+
+CMakeFiles/Calc.dir/silnia.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Calc.dir/silnia.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\M4ster\CLionProjects\Calc\silnia.cpp > CMakeFiles\Calc.dir\silnia.cpp.i
+
+CMakeFiles/Calc.dir/silnia.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Calc.dir/silnia.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\M4ster\CLionProjects\Calc\silnia.cpp -o CMakeFiles\Calc.dir\silnia.cpp.s
+
 # Object files for target Calc
 Calc_OBJECTS = \
-"CMakeFiles/Calc.dir/main.cpp.obj"
+"CMakeFiles/Calc.dir/main.cpp.obj" \
+"CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.obj" \
+"CMakeFiles/Calc.dir/onp.cpp.obj" \
+"CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.obj" \
+"CMakeFiles/Calc.dir/logarytmDziesietny.cpp.obj" \
+"CMakeFiles/Calc.dir/logarytmNaturalny.cpp.obj" \
+"CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.obj" \
+"CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.obj" \
+"CMakeFiles/Calc.dir/silnia.cpp.obj"
 
 # External object files for target Calc
 Calc_EXTERNAL_OBJECTS =
 
 Calc.exe: CMakeFiles/Calc.dir/main.cpp.obj
+Calc.exe: CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.obj
+Calc.exe: CMakeFiles/Calc.dir/onp.cpp.obj
+Calc.exe: CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.obj
+Calc.exe: CMakeFiles/Calc.dir/logarytmDziesietny.cpp.obj
+Calc.exe: CMakeFiles/Calc.dir/logarytmNaturalny.cpp.obj
+Calc.exe: CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.obj
+Calc.exe: CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.obj
+Calc.exe: CMakeFiles/Calc.dir/silnia.cpp.obj
 Calc.exe: CMakeFiles/Calc.dir/build.make
 Calc.exe: CMakeFiles/Calc.dir/linklibs.rsp
 Calc.exe: CMakeFiles/Calc.dir/objects1.rsp
 Calc.exe: CMakeFiles/Calc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\M4ster\CLionProjects\Calc\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Calc.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\M4ster\CLionProjects\Calc\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable Calc.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Calc.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

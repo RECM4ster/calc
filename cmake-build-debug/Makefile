@@ -122,6 +122,168 @@ Calc/fast:
 	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/build
 .PHONY : Calc/fast
 
+funkcjeTrygonometryczne.obj: funkcjeTrygonometryczne.cpp.obj
+
+.PHONY : funkcjeTrygonometryczne.obj
+
+# target to build an object file
+funkcjeTrygonometryczne.cpp.obj:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.obj
+.PHONY : funkcjeTrygonometryczne.cpp.obj
+
+funkcjeTrygonometryczne.i: funkcjeTrygonometryczne.cpp.i
+
+.PHONY : funkcjeTrygonometryczne.i
+
+# target to preprocess a source file
+funkcjeTrygonometryczne.cpp.i:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.i
+.PHONY : funkcjeTrygonometryczne.cpp.i
+
+funkcjeTrygonometryczne.s: funkcjeTrygonometryczne.cpp.s
+
+.PHONY : funkcjeTrygonometryczne.s
+
+# target to generate assembly for a file
+funkcjeTrygonometryczne.cpp.s:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.s
+.PHONY : funkcjeTrygonometryczne.cpp.s
+
+liczbaOdwrotna.obj: liczbaOdwrotna.cpp.obj
+
+.PHONY : liczbaOdwrotna.obj
+
+# target to build an object file
+liczbaOdwrotna.cpp.obj:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.obj
+.PHONY : liczbaOdwrotna.cpp.obj
+
+liczbaOdwrotna.i: liczbaOdwrotna.cpp.i
+
+.PHONY : liczbaOdwrotna.i
+
+# target to preprocess a source file
+liczbaOdwrotna.cpp.i:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.i
+.PHONY : liczbaOdwrotna.cpp.i
+
+liczbaOdwrotna.s: liczbaOdwrotna.cpp.s
+
+.PHONY : liczbaOdwrotna.s
+
+# target to generate assembly for a file
+liczbaOdwrotna.cpp.s:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.s
+.PHONY : liczbaOdwrotna.cpp.s
+
+liczbaPrzeciwna.obj: liczbaPrzeciwna.cpp.obj
+
+.PHONY : liczbaPrzeciwna.obj
+
+# target to build an object file
+liczbaPrzeciwna.cpp.obj:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.obj
+.PHONY : liczbaPrzeciwna.cpp.obj
+
+liczbaPrzeciwna.i: liczbaPrzeciwna.cpp.i
+
+.PHONY : liczbaPrzeciwna.i
+
+# target to preprocess a source file
+liczbaPrzeciwna.cpp.i:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.i
+.PHONY : liczbaPrzeciwna.cpp.i
+
+liczbaPrzeciwna.s: liczbaPrzeciwna.cpp.s
+
+.PHONY : liczbaPrzeciwna.s
+
+# target to generate assembly for a file
+liczbaPrzeciwna.cpp.s:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.s
+.PHONY : liczbaPrzeciwna.cpp.s
+
+logarytmDziesietny.obj: logarytmDziesietny.cpp.obj
+
+.PHONY : logarytmDziesietny.obj
+
+# target to build an object file
+logarytmDziesietny.cpp.obj:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/logarytmDziesietny.cpp.obj
+.PHONY : logarytmDziesietny.cpp.obj
+
+logarytmDziesietny.i: logarytmDziesietny.cpp.i
+
+.PHONY : logarytmDziesietny.i
+
+# target to preprocess a source file
+logarytmDziesietny.cpp.i:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/logarytmDziesietny.cpp.i
+.PHONY : logarytmDziesietny.cpp.i
+
+logarytmDziesietny.s: logarytmDziesietny.cpp.s
+
+.PHONY : logarytmDziesietny.s
+
+# target to generate assembly for a file
+logarytmDziesietny.cpp.s:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/logarytmDziesietny.cpp.s
+.PHONY : logarytmDziesietny.cpp.s
+
+logarytmNaturalny.obj: logarytmNaturalny.cpp.obj
+
+.PHONY : logarytmNaturalny.obj
+
+# target to build an object file
+logarytmNaturalny.cpp.obj:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/logarytmNaturalny.cpp.obj
+.PHONY : logarytmNaturalny.cpp.obj
+
+logarytmNaturalny.i: logarytmNaturalny.cpp.i
+
+.PHONY : logarytmNaturalny.i
+
+# target to preprocess a source file
+logarytmNaturalny.cpp.i:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/logarytmNaturalny.cpp.i
+.PHONY : logarytmNaturalny.cpp.i
+
+logarytmNaturalny.s: logarytmNaturalny.cpp.s
+
+.PHONY : logarytmNaturalny.s
+
+# target to generate assembly for a file
+logarytmNaturalny.cpp.s:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/logarytmNaturalny.cpp.s
+.PHONY : logarytmNaturalny.cpp.s
+
+logarytmODowolnejPodstawie.obj: logarytmODowolnejPodstawie.cpp.obj
+
+.PHONY : logarytmODowolnejPodstawie.obj
+
+# target to build an object file
+logarytmODowolnejPodstawie.cpp.obj:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.obj
+.PHONY : logarytmODowolnejPodstawie.cpp.obj
+
+logarytmODowolnejPodstawie.i: logarytmODowolnejPodstawie.cpp.i
+
+.PHONY : logarytmODowolnejPodstawie.i
+
+# target to preprocess a source file
+logarytmODowolnejPodstawie.cpp.i:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.i
+.PHONY : logarytmODowolnejPodstawie.cpp.i
+
+logarytmODowolnejPodstawie.s: logarytmODowolnejPodstawie.cpp.s
+
+.PHONY : logarytmODowolnejPodstawie.s
+
+# target to generate assembly for a file
+logarytmODowolnejPodstawie.cpp.s:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.s
+.PHONY : logarytmODowolnejPodstawie.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -149,6 +311,60 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+onp.obj: onp.cpp.obj
+
+.PHONY : onp.obj
+
+# target to build an object file
+onp.cpp.obj:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/onp.cpp.obj
+.PHONY : onp.cpp.obj
+
+onp.i: onp.cpp.i
+
+.PHONY : onp.i
+
+# target to preprocess a source file
+onp.cpp.i:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/onp.cpp.i
+.PHONY : onp.cpp.i
+
+onp.s: onp.cpp.s
+
+.PHONY : onp.s
+
+# target to generate assembly for a file
+onp.cpp.s:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/onp.cpp.s
+.PHONY : onp.cpp.s
+
+silnia.obj: silnia.cpp.obj
+
+.PHONY : silnia.obj
+
+# target to build an object file
+silnia.cpp.obj:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/silnia.cpp.obj
+.PHONY : silnia.cpp.obj
+
+silnia.i: silnia.cpp.i
+
+.PHONY : silnia.i
+
+# target to preprocess a source file
+silnia.cpp.i:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/silnia.cpp.i
+.PHONY : silnia.cpp.i
+
+silnia.s: silnia.cpp.s
+
+.PHONY : silnia.s
+
+# target to generate assembly for a file
+silnia.cpp.s:
+	$(MAKE) -f CMakeFiles\Calc.dir\build.make CMakeFiles/Calc.dir/silnia.cpp.s
+.PHONY : silnia.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -158,9 +374,33 @@ help:
 	@echo ... Calc
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... funkcjeTrygonometryczne.obj
+	@echo ... funkcjeTrygonometryczne.i
+	@echo ... funkcjeTrygonometryczne.s
+	@echo ... liczbaOdwrotna.obj
+	@echo ... liczbaOdwrotna.i
+	@echo ... liczbaOdwrotna.s
+	@echo ... liczbaPrzeciwna.obj
+	@echo ... liczbaPrzeciwna.i
+	@echo ... liczbaPrzeciwna.s
+	@echo ... logarytmDziesietny.obj
+	@echo ... logarytmDziesietny.i
+	@echo ... logarytmDziesietny.s
+	@echo ... logarytmNaturalny.obj
+	@echo ... logarytmNaturalny.i
+	@echo ... logarytmNaturalny.s
+	@echo ... logarytmODowolnejPodstawie.obj
+	@echo ... logarytmODowolnejPodstawie.i
+	@echo ... logarytmODowolnejPodstawie.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... onp.obj
+	@echo ... onp.i
+	@echo ... onp.s
+	@echo ... silnia.obj
+	@echo ... silnia.i
+	@echo ... silnia.s
 .PHONY : help
 
 
