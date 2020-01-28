@@ -6,7 +6,7 @@
 #define CALC_LOGARYTMNATURALNY_H
 
 
-int logarytmNaturalny();
+double log();
 
 
 #endif //CALC_LOGARYTMNATURALNY_H

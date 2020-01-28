@@ -30,7 +30,7 @@ CMakeFiles/Calc.dir/main.cpp.obj: ../onp.h
 CMakeFiles/Calc.dir/main.cpp.obj: ../silnia.h
 
 CMakeFiles/Calc.dir/onp.cpp.obj: ../onp.cpp
-CMakeFiles/Calc.dir/onp.cpp.obj: ../onp.h
+CMakeFiles/Calc.dir/onp.cpp.obj: ../stdlib.h
 
 CMakeFiles/Calc.dir/silnia.cpp.obj: ../silnia.cpp
 CMakeFiles/Calc.dir/silnia.cpp.obj: ../silnia.h

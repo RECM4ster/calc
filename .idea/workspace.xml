@@ -12,7 +12,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3017b0f7-a91c-4c0e-baa6-3b4e18e650cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/stdlib.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/logarytmNaturalny.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/logarytmNaturalny.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/onp.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/onp.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Calc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logarytmNaturalny.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/logarytmNaturalny.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logarytmNaturalny.h" beforeDir="false" afterPath="$PROJECT_DIR$/logarytmNaturalny.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/onp.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +55,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\M4ster\CLionProjects\Calc" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Calc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Calc" TARGET_NAME="Calc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Calc" RUN_TARGET_NAME="Calc">
@@ -62,6 +81,7 @@
         </serviceView>
       </list>
     </option>
+    <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -79,6 +99,12 @@
       <workItem from="1578337086277" duration="82000" />
       <workItem from="1578349691582" duration="1839000" />
       <workItem from="1579028594281" duration="4362000" />
+      <workItem from="1579896678441" duration="1309000" />
+      <workItem from="1579897996325" duration="217000" />
+      <workItem from="1579898220342" duration="3611000" />
+      <workItem from="1580244543291" duration="1712000" />
+      <workItem from="1580246454832" duration="2087000" />
+      <workItem from="1580254574605" duration="767000" />
     </task>
     <servers />
   </component>
@@ -90,44 +116,57 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="199" key="#New_File_Extensions/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579036574462" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1579037936496">
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1580246926831">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580246926831" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1579911790715">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578351531088" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579037936496" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1579037936496">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579911790715" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1579911790715">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578351531088" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579037936496" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1579037936495">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579911790715" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1579911790712">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578351531088" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579037936495" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1579037936496">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579911790712" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1579911790715">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578351531088" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579037936496" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1579029012484">
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579911790715" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1580246444474">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578328958787" />
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579029012484" />
-    <state x="656" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1579028594942">
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580246444474" />
+    <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1580246926831">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580246926831" />
+    <state x="656" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1580254592895">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578349694652" />
-    <state x="656" y="358" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579028594942" />
+    <state x="656" y="358" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580254592895" />
     <state x="685" y="183" key="refactoring.ChangeSignatureDialog" timestamp="1579037707199">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="685" y="183" key="refactoring.ChangeSignatureDialog/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579037707199" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1578328836566">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="616" y="249" key="run.anything.popup" timestamp="1579900498766">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578328836566" />
+    <state x="616" y="249" key="run.anything.popup/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579900498766" />
+    <state x="616" y="193" width="670" height="676" key="search.everywhere.popup" timestamp="1580244981103">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="193" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580244981103" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

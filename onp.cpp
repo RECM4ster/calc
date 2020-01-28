@@ -1,57 +1,72 @@
-//
-// Created by M4ster on 14.01.2020.
-//
 #include <iostream>
-#include "onp.h"
+#include <vector>
+#include <stack>
+#include <cmath>
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+
+
 
 using namespace std;
 
-int onp() {
-    int stos[256], wskaznik_stosu = 0; //zmienna stosu i wskaznik stosu
-    int a, b, w; //zmienne obliczeniowe
-    char elementy_stosu[256];// tablica przechowujaca nasze dzialanie
+int main()
+{
+    string elementy_stosu;
+    vector<string> dane;
+    stack<double> stos;
 
-    cout << "Podaj dzialanie w postaci ONP(zakonczone =):";
-    cin >> elementy_stosu; //wprowadzanie dzialania
-    int i = -1; //zmienna sterujaca
-    do {
-        i++; //co jeden przebieg zwiekszy nam o 2
+    cout << "Podaj dzialanie w postaci ONP (liczby i operatory oddzielone spacja...):" << endl;
+    getline(cin, elementy_stosu);
 
-        if (elementy_stosu[i] >= '0' &&
-            elementy_stosu[i] <= '9') //sprawdza czy elemnet dzialania o ideksie i jest liczba
+    size_t pozycja = elementy_stosu.find(' ');
+    size_t poczatkowa_pozycja = 0;
+
+    //Dzielenie wejsciowego stringa separatorem spacji na tablice string
+    while (pozycja != string::npos)
+    {
+        dane.push_back( elementy_stosu.substr( poczatkowa_pozycja, pozycja - poczatkowa_pozycja ) );
+        poczatkowa_pozycja = pozycja + 1;
+
+        pozycja = elementy_stosu.find(' ', poczatkowa_pozycja);
+    }
+
+     dane.push_back( elementy_stosu.substr( poczatkowa_pozycja, min( pozycja, elementy_stosu.size() ) - poczatkowa_pozycja + 1 ) );
+
+
+    for (int i = 0; i < dane.size(); i++)
+    {
+        if (dane[i] != "+" && dane[i] != "-" && dane[i] != "*" && dane[i] != "/" && dane[i] != "^" && dane[i] != "log")
         {
-            a = b = 0;
-            a = elementy_stosu[i] - 48; // zamiana znaku  na liczbe
-            stos[wskaznik_stosu++] = a; // dodanie liczby do stosu
-
-        } else if (elementy_stosu[i] == '=') cout << "wynik:" << stos[--wskaznik_stosu] << endl; //wyswietlamy wynik
-        else {
-            b = stos[--wskaznik_stosu];
-            a = stos[--wskaznik_stosu]; //pobieramy dwie liczby do obliczen z stosu
-
-            switch (elementy_stosu[i]) //sprawdzamu znak
-            {
-                case '+':
-                    w = a + b;
-                    break;
-                case '-':
-                    w = a - b;
-                    break;
-                case '*':
-                    w = a * b;
-                    break;
-                case '/':
-                    w = a / b;
-                    break;
-                case '^':
-                    w = 1;
-                    while (b--) w *= a;
-                    break;
-            }
-
-            stos[wskaznik_stosu++] = w;// dodaje do stosu wynik operacji
+            stos.push(atoi(dane[i].c_str()));
+            continue;
         }
 
-    } while (elementy_stosu[i] != '=');
+        int wartosc_a = stos.top();
+        stos.pop();
+        int wartosc_b = stos.top();
+        stos.pop();
+
+        if (dane[i] == "+")
+            stos.push(wartosc_b + wartosc_a);
+        else if (dane[i] == "-")
+            stos.push(wartosc_b - wartosc_a);
+        else if (dane[i] == "*")
+            stos.push(wartosc_b * wartosc_a);
+        else if (dane[i] == "/")
+            stos.push(wartosc_b / wartosc_a);
+        else if (dane[i] == "^")
+            stos.push(pow(wartosc_b, wartosc_a));
+            else if (dane[i]== "log")
+            {
+                stos.push(log(wartosc_b) / log(wartosc_a));
+            }
+
+
+
+    }
+
+    cout << "Wynik: " << stos.top() << endl;
+
     return 0;
 }

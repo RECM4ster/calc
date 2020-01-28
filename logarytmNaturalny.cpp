@@ -8,13 +8,9 @@
 
 using namespace std;
 
-int logarytmNaturalny() {
+double log(x) {
 
-    int liczba;
-    float logarytm;
-    cout << "Podaj liczbe logarytmowana" << endl;
-    cin >> liczba;
-    logarytm = log(liczba);
-    cout << "Logarytm naturalny z " << liczba << " to " << logarytm;
-    return 0;
+    int x;
+
+    return log(x);;
 }
