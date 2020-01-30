@@ -12,20 +12,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3017b0f7-a91c-4c0e-baa6-3b4e18e650cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stdlib.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readm.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/logarytmNaturalny.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/logarytmNaturalny.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/funkcjeTrygonometryczne.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/liczbaOdwrotna.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/liczbaPrzeciwna.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/logarytmDziesietny.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/logarytmNaturalny.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/logarytmODowolnejPodstawie.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/main.cpp.obj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/onp.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/onp.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Calc.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logarytmNaturalny.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/logarytmNaturalny.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logarytmNaturalny.h" beforeDir="false" afterPath="$PROJECT_DIR$/logarytmNaturalny.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calc.dir/silnia.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Calc.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Calc.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funkcjeTrygonometryczne.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funkcjeTrygonometryczne.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liczbaOdwrotna.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liczbaOdwrotna.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liczbaPrzeciwna.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liczbaPrzeciwna.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logarytmDziesietny.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logarytmDziesietny.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logarytmNaturalny.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logarytmNaturalny.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logarytmODowolnejPodstawie.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logarytmODowolnejPodstawie.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/onp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/onp.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/onp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onp.o" beforeDir="false" afterPath="$PROJECT_DIR$/onp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/silnia.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silnia.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +77,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1W1r712kAxPUoennevrUNinYnvg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -104,42 +139,56 @@
       <workItem from="1579898220342" duration="3611000" />
       <workItem from="1580244543291" duration="1712000" />
       <workItem from="1580246454832" duration="2087000" />
-      <workItem from="1580254574605" duration="767000" />
+      <workItem from="1580254574605" duration="1735000" />
+      <workItem from="1580386954410" duration="49000" />
+      <workItem from="1580388101611" duration="4506000" />
+      <workItem from="1580400349543" duration="527000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="552" y="199" key="#New_File_Extensions" timestamp="1579036574462">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="199" key="#New_File_Extensions/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579036574462" />
+    <state x="720" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580397389863">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="720" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580397389863" />
+    <state x="690" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580399732477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580399732477" />
     <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1580246926831">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580246926831" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1579911790715">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1580399801336">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578351531088" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579911790715" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1579911790715">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580399801336" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1580399801336">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578351531088" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579911790715" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1579911790712">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580399801336" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1580399801336">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578351531088" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579911790712" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1579911790715">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580399801336" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1580399801336">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578351531088" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579911790715" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580399801336" />
     <state x="461" y="169" key="SettingsEditor" timestamp="1580246444474">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -149,20 +198,24 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580246926831" />
-    <state x="656" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1580254592895">
+    <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580400459297">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580400459297" />
+    <state x="656" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1580400428706">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578349694652" />
-    <state x="656" y="358" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580254592895" />
+    <state x="656" y="358" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580400428706" />
     <state x="685" y="183" key="refactoring.ChangeSignatureDialog" timestamp="1579037707199">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="685" y="183" key="refactoring.ChangeSignatureDialog/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579037707199" />
-    <state x="616" y="249" key="run.anything.popup" timestamp="1579900498766">
+    <state x="616" y="249" width="672" height="677" key="run.anything.popup" timestamp="1580399423217">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/464.-1080.1920.1040@0.0.1920.1040" timestamp="1578328836566" />
-    <state x="616" y="249" key="run.anything.popup/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1579900498766" />
+    <state x="616" y="249" width="672" height="677" key="run.anything.popup/0.0.1920.1080/464.-1080.1920.1080@0.0.1920.1080" timestamp="1580399423217" />
     <state x="616" y="193" width="670" height="676" key="search.everywhere.popup" timestamp="1580244981103">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

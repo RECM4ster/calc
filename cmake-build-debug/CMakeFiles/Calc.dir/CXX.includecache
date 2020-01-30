@@ -15,10 +15,18 @@ stack
 -
 cmath
 -
+stdio.h
+-
 stdlib.h
-C:/Users/M4ster/CLionProjects/Calc/stdlib.h
-
-C:/Users/M4ster/CLionProjects/Calc/stdlib.h
+-
+ctype.h
+-
+math.h
+-
 cstdlib
+-
+
+C:/Users/M4ster/CLionProjects/Calc/readm.cpp
+iostream
 -
 
